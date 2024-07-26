@@ -15,7 +15,7 @@ The video of our experimental results is as follows:
       </tr >
       <tr >
 	    <td><a href="https://www.bilibili.com/video/BV1kxeDeoE8S/">bilibili</a></td>
-	    <td><a href="https://www.bilibili.com">YouTube</a></td>
+	    <td><a href="https://youtu.be/XvOESC_gK2A">YouTube</a></td>
             <td><a href="https://www.bilibili.com/video/BV1yHeDe8Ei5/">bilibili</a></td>
 	    <td><a href="https://www.bilibili.com">YouTube</a></td>
             <td><a href="https://www.bilibili.com/video/BV1yHeDe8ESg/">bilibili</a></td>
