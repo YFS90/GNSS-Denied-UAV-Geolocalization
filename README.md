@@ -5,6 +5,7 @@ We have developed a visual positioning system that combines image matching, visu
 Furthermore, the system is adaptable to terrain variations, image tilt and rotation, changes in altitude, and complex flight paths. It does not require the camera to be oriented strictly downward and exhibits robustness to seasonal and lighting changes. We used data from 20 complex scenarios, including plains, hilly terrain, and urban and rural areas, with multiple flight paths, viewpoints, seasonal weather conditions, and thermal infrared variations, to thoroughly validate the system's robustness and accuracy. Experimental results indicate that our system successfully achieved high-altitude, long-distance, large-scale, and high-precision GNSS-denied positioning during both day and night under pure visual conditions. The positioning accuracy is comparable to GPS, making it a strong complement to GNSS in GNSS-denied scenarios.
 ***
 The video of our experimental results is as follows: 
+![UAV_IMG](https://github.com/YFS90/GNSS-Denied-UAV-Geolocalization/blob/main/Img/dataset.jpg)
 <table>
       <tr>
 	    <td colspan="2"><img src="https://github.com/YFS90/GNSS-Denied-UAV-Geolocalization/blob/main/Img/fig9(a).png" ></td>
