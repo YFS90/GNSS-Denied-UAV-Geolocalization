@@ -56,15 +56,15 @@ The video of our experimental results is as follows:
       </tr >
       <tr >
 	    <td><a href="https://www.bilibili.com/video/BV1Hn4y1f7Mc/">bilibili</a></td>
-	    <td><a href="https://www.bilibili.com">YouTube</a></td>
+	    <td><a href="https://youtu.be/x43gk8D5Lg8">YouTube</a></td>
             <td><a href="https://www.bilibili.com/video/BV19y411i7z7/">bilibili</a></td>
-	    <td><a href="https://www.bilibili.com">YouTube</a></td>
+	    <td><a href="https://youtu.be/uoBsg56C1oc">YouTube</a></td>
             <td><a href="https://www.bilibili.com/video/BV1ar421K7ik/">bilibili</a></td>
-	    <td><a href="https://www.bilibili.com">YouTube</a></td>
+	    <td><a href="https://youtu.be/jdC8_U_KK00">YouTube</a></td>
             <td><a href="https://www.bilibili.com/video/BV151421t79s/">bilibili</a></td>
-	    <td><a href="https://www.bilibili.com">YouTube</a></td>
+	    <td><a href="https://youtu.be/ZaWugQ2LO0Q">YouTube</a></td>
             <td><a href="https://www.bilibili.com/video/BV1BS421X7Jy/">bilibili</a></td>
-	    <td><a href="https://www.bilibili.com">YouTube</a></td>
+	    <td><a href="https://youtu.be/afVk8pgY-FY">YouTube</a></td>
 	</tr>
         <table>
       <tr>
@@ -76,15 +76,15 @@ The video of our experimental results is as follows:
       </tr >
       <tr >
 	    <td><a href="https://www.bilibili.com/video/BV1AW421R7iw/">bilibili</a></td>
-	    <td><a href="https://www.bilibili.com">YouTube</a></td>
+	    <td><a href="https://youtu.be/94bgPjUhEho">YouTube</a></td>
             <td><a href="https://www.bilibili.com/video/BV1XH4y1c7kw/">bilibili</a></td>
-	    <td><a href="https://www.bilibili.com">YouTube</a></td>
+	    <td><a href="https://youtu.be/A5qNAZSYZ-E">YouTube</a></td>
             <td><a href="https://www.bilibili.com/video/BV1K142187NU/">bilibili</a></td>
-	    <td><a href="https://www.bilibili.com">YouTube</a></td>
+	    <td><a href="https://youtu.be/FhVtLpFWKXU">YouTube</a></td>
             <td><a href="https://www.bilibili.com/video/BV13b421J7m8/">bilibili</a></td>
-	    <td><a href="https://www.bilibili.com">YouTube</a></td>
+	    <td><a href="https://youtu.be/c734Jh-Lpdg">YouTube</a></td>
             <td><a href="https://www.bilibili.com/video/BV19f421v7Ni/">bilibili</a></td>
-	    <td><a href="https://www.bilibili.com">YouTube</a></td>
+	    <td><a href="https://youtu.be/KiKxYxljkI8">YouTube</a></td>
 	</tr>
 </table>
 
