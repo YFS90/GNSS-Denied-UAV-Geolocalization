@@ -1,4 +1,4 @@
-# GNSS-Denied Geolocalization of UAVs Day and Night Using Terrain-Weighted Constraint Optimization
+# GNSS-Denied Geolocalization of UAVs Using Terrain-Weighted Constraint Optimization
 ![UAV_IMG](https://github.com/YFS90/GNSS-Denied-UAV-Geolocalization/blob/main/Img/GIF.gif)
 Unmanned Aerial Vehicles (UAVs) are increasingly being used across various industries, from agriculture to the military. To perform these complex tasks, UAVs rely on GNSS for positioning and navigation. However, GNSS is susceptible to spoofing and environmental interference, making it crucial for UAVs to infer their position during GNSS denial. 
 We have developed a visual positioning system that combines image matching, visual odometry, and terrain constraints. This system utilizes publicly available satellite maps and DEM data from the internet, does not require altimeters or IMUs, is immune to signal interference, does not require loop closure correction, and does not accumulate errors, allowing for re-localization after positioning failure.
