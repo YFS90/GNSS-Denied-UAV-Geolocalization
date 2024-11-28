@@ -88,4 +88,17 @@ The video of our experimental results is as follows:
 	</tr>
 </table>
 
-
+# Citation
+***
+```bibtex
+@article{YAO2024104277,
+title = {GNSS-denied geolocalization of UAVs using terrain-weighted constraint optimization},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+author = {Fushan Yao and Chaozhen Lan and Longhao Wang and Hongfa Wan and Tian Gao and Zijun Wei},
+volume = {135},
+pages = {104277},
+year = {2024},
+issn = {1569-8432},
+doi = {https://doi.org/10.1016/j.jag.2024.104277},
+url = {https://www.sciencedirect.com/science/article/pii/S1569843224006332}
+}
