@@ -89,7 +89,6 @@ The video of our experimental results is as follows:
 </table>
 
 # Citation
-***
 ```bibtex
 @article{YAO2024104277,
 title = {GNSS-denied geolocalization of UAVs using terrain-weighted constraint optimization},
